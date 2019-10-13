@@ -6,7 +6,7 @@
 - JPA
 - thymeleaf模板引擎
 - Semantic UI框架
-- logback 
+- slf4j+logback 
 - Maven
 - JavaScript
 - HTML+CSS
