@@ -1,0 +1,14 @@
+spring:
+  thymeleaf:
+    #关闭thymeleaf模板引擎的缓存
+    cache: false
+    mode: HTML
+  profiles:
+    active: dev
+  messages:
+    basename: i18n/messages
+
+comment.avatar: /images/avatar.png
+
+
+
