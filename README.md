@@ -6,9 +6,10 @@
 - JPA
 - thymeleaf模板引擎
 - Semantic UI框架
+- logback 
+- Maven
 - JavaScript
 - HTML+CSS
-- Maven
 - Markdown
 
 
