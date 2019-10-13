@@ -8,6 +8,7 @@
 - Semantic UI框架
 - JavaScript
 - HTML+CSS
+- Maven
 
 
 ## 工具
